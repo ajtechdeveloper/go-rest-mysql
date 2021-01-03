@@ -1,2 +1,5 @@
-# go-rest-mysql
-A simple App with Go REST CRUD APIs using MySQL 
+# A simple Golang App with REST CRUD APIs using MySQL Database
+
+[![Build Status](https://travis-ci.org/ajtechdeveloper/go-rest-mysql.svg?branch=main)](https://travis-ci.org/ajtechdeveloper/go-rest-mysql)
+
+For Application setup and usage, please refer to my blog post: [Golang CRUD REST API MySQL Tutorial](https://softwaredevelopercentral.blogspot.com/2021/01/golang-crud-rest-api-mysql-tutorial.html)
